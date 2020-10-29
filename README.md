@@ -39,8 +39,15 @@ Bukalapak is a privately held technology company in Indonesia and one of the lar
 
 ## Screenshots
 
-- [Screenshots]()
-- [Watch Demo App]()
+<div>
+  <img src="https://github.com/fdlnfjrrmdni/Bukalapak-Clone-Front-End/blob/Development/Screenshot/Screenshot_2020-10-29-09-46-46-289_com.bukalapakclonefrontend.jpg" width="280">
+  <img src="https://github.com/fdlnfjrrmdni/Bukalapak-Clone-Front-End/blob/Development/Screenshot/Screenshot_2020-10-29-09-47-16-922_com.bukalapakclonefrontend.jpg" width="280">
+  <img src="https://github.com/fdlnfjrrmdni/Bukalapak-Clone-Front-End/blob/Development/Screenshot/Screenshot_2020-10-29-09-47-24-348_com.bukalapakclonefrontend.jpg" width="280">
+  <img src="https://github.com/fdlnfjrrmdni/Bukalapak-Clone-Front-End/blob/Development/Screenshot/Screenshot_2020-10-29-09-47-31-235_com.bukalapakclonefrontend.jpg" width="280">
+  <img src="https://github.com/fdlnfjrrmdni/Bukalapak-Clone-Front-End/blob/Development/Screenshot/Screenshot_2020-10-29-09-49-31-155_com.bukalapakclonefrontend.jpg" width="280">
+  <img src="https://github.com/fdlnfjrrmdni/Bukalapak-Clone-Front-End/blob/Development/Screenshot/Screenshot_2020-10-29-09-48-07-791_com.bukalapakclonefrontend.jpg" width="280">
+  <img src="https://github.com/fdlnfjrrmdni/Bukalapak-Clone-Front-End/blob/Development/Screenshot/Screenshot_2020-10-29-09-50-44-626_com.bukalapakclonefrontend.jpg" width="280">
+</div>
 
 ## Release APK
 
